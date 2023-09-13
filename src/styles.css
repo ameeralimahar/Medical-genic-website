@@ -1,0 +1,185 @@
+body {
+    margin: 20px;
+    background-color: #F0F8FF;
+}
+
+.navbar {
+    background-color: #F0F8FF;
+    padding: 3rem;
+}
+
+.hero {
+    background-color: #F0F8FF;
+    padding: 3rem;
+    outline: none;
+}
+
+.hero-container {
+    padding: 3rem;
+    outline: none;
+}
+.hero-image{
+    width: 500px;
+}
+
+.btn {
+    padding: 1rem;
+    margin: 10px;
+}
+
+.space {
+    padding: 80px;
+}
+
+.card-image {
+    width: 32px;
+    height: 32px;
+    margin: 10px;
+}
+
+.line {
+    height: 2px;
+    margin: 10px;
+}
+
+.stats {
+    padding: 80px;
+}
+
+.activities {
+    padding-left: 160px;
+    padding-right: 160px;
+}
+
+.layout-4, .layout-5, .review-section, .sponsors, .join-us-section, .footer-section {
+    padding-left: 120px;
+    padding-right: 120px;
+    padding-top: 80px;
+
+}
+
+.main-content {
+    padding-bottom: 80px;
+}
+
+.card {
+    width: 328px;
+    border: 1rem;
+}
+
+.card-image {
+    margin: 10px;
+    width: 72px;
+    height: 72px;
+}
+.product-image{
+    width: 348px;
+    height: 300px;
+}
+.card-rating{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#feature-title1, #feature-title2, #feature-title3, #feature-description1, #feature-description2, #feature-description3 {
+    padding: 10px;
+}
+.review-card{
+    width: 328px;
+    padding: 3rem;
+}
+.stars, .review-comment, .review-profile{
+    display: flex;
+    justify-content: center;
+    padding: 1rem;
+}
+.join-us-content {
+    padding: 100px 100px 100px 50px;
+}
+.subscribe{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.sub-button{
+    padding: 5px;
+    margin: 5px;
+}
+.expert-section {
+
+    padding: 20px;
+}
+
+
+
+
+
+
+
+/*body{*/
+/*    margin: 20px;*/
+/*    align-content: center;*/
+/*    background-color: #F0F8FF;*/
+/*}*/
+/*.navbar{*/
+/*    background-color: #F0F8FF;*/
+/*    padding: 3rem;*/
+/*}*/
+/*.hero{*/
+/*    background-color: #F0F8FF;*/
+/*    padding: 3rem;*/
+/*}*/
+/*.hero-container{*/
+/*    padding: 3rem;*/
+/*}*/
+/*.hero-image{*/
+/*    width: 768px;*/
+/*    height: 653px;*/
+
+/*}*/
+/*.btn{*/
+/*    padding: 1rem;*/
+/*    margin: 10px;*/
+/*}*/
+/*.space{*/
+/*    min-height: 80px;*/
+/*}*/
+/*.card-image{*/
+/*    width: 32px;*/
+/*    height: 32px;*/
+/*    margin: 10px;*/
+/*}*/
+/*.line{*/
+/*    width: 50px;*/
+/*    height: 2px;*/
+/*    margin: 10px;*/
+/*}*/
+/*.stats{*/
+/*    padding: 80px;*/
+/*}*/
+/*.activities{*/
+/*    padding-left: 160px;*/
+/*    padding-right: 160px;*/
+/*}*/
+/*.main-content{*/
+/*    !*padding-top: 160px;*!*/
+/*    padding-bottom: 80px;*/
+
+/*}*/
+/*.card{*/
+/*    width: 328px;*/
+/*    border: 1rem;*/
+
+/*}*/
+/*.card-image{*/
+/*    margin: 10px;*/
+/*    width: 72px;*/
+/*    height: 72px;*/
+/*}*/
+/*#feature-title1, #feature-title2 , #feature-title3, #feature-description1, #feature-description2, #feature-description3{*/
+/*    padding: 10px;*/
+/*}*/
+/*.expert-section{*/
+/*    padding: 20px;*/
+/*    margin-left: 195px;*/
+/*}*/
